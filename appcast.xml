@@ -5,10 +5,10 @@
         <description>Release history</description>
         <language>en</language>
         <item>
-            <title>iManage Drive 1.26.69.0</title>
-            <sparkle:releaseNotesLink>ftp://localhost:2121/release/release_notes_1.26.69.0.html</sparkle:releaseNotesLink>
-            <pubDate>2020-03-23T19:19:19.437618</pubDate>
-            <enclosure url="ftp://localhost:2121/release/go_drive_1.26.69.0.zip" sparkle:version="1.29.69.0" sparkle:edSignature="DiQQr9cZZkVcCWmdwy2VuJ9+f04K6/ohmusn6MXrPio+qevf2zmbnDVjM+f0RYELDNsSeHkQ+zKnSOOH6CR3AA==" length="113632799" type="application/octet-stream" />
+            <title>iManage Drive 1.50.69.0</title>
+            <sparkle:releaseNotesLink>ftp://localhost:2121/release/release_notes_1.50.69.0.html</sparkle:releaseNotesLink>
+            <pubDate>2020-03-24T10:55:05.645485</pubDate>
+            <enclosure url="ftp://localhost:2121/release/go_drive_1.50.69.0.zip" sparkle:version="1.50.69.0" sparkle:edSignature="/vxHwqDQwr2F85eHh3GV9xnxS+8Gdnl61hgEgbY53U6FPDslxtfKR/87Oz7WfEqzrXhDjvWQUKjTc/AIUIkICg==" length="113637736" type="application/octet-stream" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
     </channel>
